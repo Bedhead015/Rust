@@ -1,2 +1,2 @@
 # Rust
-Rust Projects
+This is my attempt to learn a understand the Rust language.
